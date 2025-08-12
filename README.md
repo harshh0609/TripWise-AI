@@ -1,25 +1,32 @@
-# Welcome to your Lovable project
+# 🌍 TripWise AI
 
-## Project info
+TripWise AI is an intelligent travel planning assistant powered by the **Google Gemini API**.  
+It helps users plan trips, discover destinations, and get personalized travel recommendations — all with a sleek and responsive UI.
 
-**URL**: https://lovable.dev/projects/40cee917-e05a-4a2b-afde-113ff710ac5b
+---
 
-## How can I edit this code?
+## ✨ Features
 
-There are several ways of editing your application.
+- 🧠 **AI-Powered Recommendations** – Get smart travel suggestions using the Google Gemini API.
+- 📍 **Destination Insights** – Learn about places, activities, and experiences.
+- 🎯 **Personalized Itineraries** – Tailored plans based on user preferences.
+- 📱 **Responsive UI** – Built with **React + Tailwind CSS** for a modern look.
+- ⚡ **Fast & Lightweight** – Optimized for smooth performance.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/40cee917-e05a-4a2b-afde-113ff710ac5b) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** React.js, TypeScript, Tailwind CSS
+- **AI Integration:** Google Gemini API
+- **State Management:** React Hooks
+- **Build Tool:** Vite
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
+### 1️⃣ Clone the Repository
 Follow these steps:
 
 ```sh
@@ -36,20 +43,6 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
 ## What technologies are used for this project?
 
 This project is built with .
@@ -60,10 +53,9 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## 📌 Future Enhancements
+🌐 Multi-language support
 
-Simply open [Lovable](https://lovable.dev/projects/40cee917-e05a-4a2b-afde-113ff710ac5b) and click on Share -> Publish.
+🗺️ Interactive maps with live route suggestions
 
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+📅 Calendar integration for trip scheduling
