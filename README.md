@@ -20,13 +20,12 @@ It helps users plan trips, discover destinations, and get personalized travel re
 - **Frontend:** React.js, TypeScript, Tailwind CSS
 - **AI Integration:** Google Gemini API
 - **State Management:** React Hooks
-- **Build Tool:** Vite
+- **Build Tool:** Vite 
 
 ---
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
 Follow these steps:
 
 ```sh
